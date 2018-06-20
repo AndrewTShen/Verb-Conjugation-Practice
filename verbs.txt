@@ -1,0 +1,52 @@
+aller_présent_je vais
+aller_présent_tu vas
+aller_présent_il/elle va
+aller_présent_nous allons
+aller_présent_vous allez
+aller_présent_ils/elles vont
+aller_imparfait_je allais
+aller_imparfait_tu allais
+aller_imparfait_il/elle allait
+aller_imparfait_nous allions
+aller_imparfait_vous alliez
+aller_imparfait_ils/elles allaient
+aller_conditionnel_je irais
+aller_conditionnel_tu irais
+aller_conditionnel_il/elle irait
+aller_conditionnel_nous	irions
+aller_conditionnel_vous	iriez
+aller_conditionnel_ils/elles iraient
+aller_subjonctif_je aille
+aller_subjonctif_tu ailles
+aller_subjonctif_il/elle aille
+aller_subjonctif_nous allions
+aller_subjonctif_vous alliez
+aller_subjonctif_ils/elles aillent
+aller_subjonctif_passé_je sois_allé(e)
+aller_subjonctif_passé_tu sois_allé(e)
+aller_subjonctif_passé_il/elle soit_allé(e)
+aller_subjonctif_passé_nous soyons_allé(e)s
+aller_subjonctif_passé_vous soyez_allé(e)(s)
+aller_subjonctif_passé_ils/elles soient_allé(e)s
+aller_conditionnel_passé_je serais allé(e)
+aller_conditionnel_passé_tu serais allé(e)
+aller_conditionnel_passé_il/elle serait allé(e)
+aller_conditionnel_passé_nous serions allé(e)s
+aller_conditionnel_passé_vous seriez allé(e)(s)
+aller_conditionnel_passé_ils/elles seraient allé(e)s
+aller_plus_que_parfait_passé_je	étais_allé(e)
+aller_plus_que_parfait_passé_tu	étais_allé(e)
+aller_plus_que_parfait_passé_il/elle était_allé(e)
+aller_plus_que_parfait_passé_nous étions_allé(e)s
+aller_plus_que_parfait_passé_vous étiez_allé(e)(s)
+aller_plus_que_parfait_passé_ils/elles étaient_allé(e)s
+aller_futur_je irai
+aller_futur_tu iras
+aller_futur_il/elle ira
+aller_futur_nous irons
+aller_futur_vous irez
+aller_futur_ils/elles iront
+aller_participe_présent allant
+aller_impératif_tu va
+aller_impératif_vous allons
+aller_impératif_nous allez
