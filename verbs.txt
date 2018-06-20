@@ -48,5 +48,5 @@ aller_futur_vous irez
 aller_futur_ils/elles iront
 aller_participe_présent allant
 aller_impératif_tu va
-aller_impératif_vous allons
-aller_impératif_nous allez
+aller_impératif_vous allez
+aller_impératif_nous allons
